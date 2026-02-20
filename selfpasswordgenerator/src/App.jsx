@@ -1,7 +1,5 @@
 import { useCallback, useEffect, useState,useRef } from 'react'
 
-
-
 function App() {
   
   const [password,setPassword] = useState("")
